@@ -475,25 +475,25 @@ public class Table {
         addM(MI, 180, DC, 121, 10, 18, 2);
 
         // Match 64 - may 22, 2025
-        addM(LSG, 235, GT, 202, 9, 20, 0);
+        //addM(LSG, 235, GT, 202, 9, 20, 0);
 
         // Match 65 - may 23, 2025
-        addM(SRH, 231, RCB, 189, 10, 19, 5);
+        //addM(SRH, 231, RCB, 189, 10, 19, 5);
 
         // Match 66 - may 24, 2025
-        addM(PBKS, 206, DC, 208, 4, 19, 3);
+        //addM(PBKS, 206, DC, 208, 4, 19, 3);
 
         // Match 67 - may 25, 2025
-        addM(CSK, 230, GT, 147, 10, 18, 3);
+        //addM(CSK, 230, GT, 147, 10, 18, 3);
 
         // Match 68 - may 25, 2025
-        addM(SRH, 278, KKR, 168, 10, 18, 4);
+       // addM(SRH, 278, KKR, 168, 10, 18, 4);
 
         // Match 69 - may 26, 2025
-        addM(MI, 184, PBKS, 187, 3, 18, 3);
+        //addM(MI, 184, PBKS, 187, 3, 18, 3);
 
         // Match 70 - may 27, 2025
-        addM(LSG, 227, RCB, 230, 4, 18, 4);
+        //addM(LSG, 227, RCB, 230, 4, 18, 4);
 
         Table[][] NP = {{ GT, LSG },
         { RCB, SRH }, { PBKS, DC }, { GT, CSK }, { SRH, KKR }, { PBKS, MI }, { LSG, RCB }};
@@ -527,3 +527,4 @@ public class Table {
         display(seq);
     }
 }
+
