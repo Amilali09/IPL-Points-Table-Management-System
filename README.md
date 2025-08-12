@@ -67,7 +67,7 @@ java Main
 ---
 
 ## 🧑‍💻 Author
-
+- **Name:** Syed Amil Ali
 - **GitHub:** [Amilali09](https://github.com/Amilali09)
 - **Email:** aamilakil@gmail.com
 
